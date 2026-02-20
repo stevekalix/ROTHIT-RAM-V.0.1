@@ -18,9 +18,7 @@ const Summary = () => {
                     transition={{ duration: 0.8, delay: 0.2 }}
                     className="text-lg leading-relaxed text-center"
                 >
-                    Adaptable professional with a strong ability to thrive in diverse environments.
-                    Recognized for quick comprehension and efficient execution of tasks.
-                    Possesses a disciplined approach combined with strategic thinking and effective communication skills.
+                    Aspiring Full-Stack Developer passionate about building modern, responsive web applications. Skilled in HTML, CSS, JavaScript, and currently expanding my knowledge in React, Node.js, and databases. I love solving problems, learning new technologies, and turning ideas into functional digital experiences. Committed to continuous learning and professional growth in the tech industry.
                 </motion.p>
             </div>
         </section>

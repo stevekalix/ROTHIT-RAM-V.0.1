@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 
 const Skills = () => {
-    const technicalSkills = ['Java', 'Flutter'];
+    const technicalSkills = ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js', 'Databases'];
     const languages = [
         { lang: 'Japanese', level: 'A2' },
         { lang: 'English', level: 'C1' },

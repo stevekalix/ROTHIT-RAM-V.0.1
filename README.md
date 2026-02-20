@@ -1,6 +1,6 @@
 # Rohith Ram - Portfolio
 
-A modern, responsive portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
+A modern, responsive portfolio website for an aspiring Full-Stack Developer built with React, Vite, Tailwind CSS, and Framer Motion.
 
 ## Features
 
@@ -35,7 +35,10 @@ The built files in the `dist` folder can be deployed to any static hosting servi
 
 - Hero: Introduction and contact info
 - Summary: Professional summary
+- Experience: Work experience
 - Skills: Technical skills and languages
+- Projects: Portfolio projects
 - Education: Academic background
 - Hobbies: Personal interests
 - Contact: Contact form and details
+- Footer: Social links and copyright
